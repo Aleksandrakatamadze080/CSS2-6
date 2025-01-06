@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+   
+   max-width: 1604px;
+   padding: 96px;
+   background: #E4EBFF;
+   margin: 64px auto;
+}
+
+#child {
+   padding: 96px 0; 
+   background: #FFF;
+
+}
+
+#header {
+    width: 929px;
+    margin: 0 auto;
+   
+}
+
+#heads {
+    text-align: center;
+    color: #6941C6;
+    font-size: 16px;
+}
+
+#headHead {
+    color: #181D27;
+    margin-top: 12px;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+#headPDiv {
+    color: #535862;
+    font-size: 20px;
+    width: 1216px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#headP {
+    text-align: center;
+
+}
+
+#lineOne {
+    width: 100%;
+    padding: 96px 0 0 32px;
+}
+
+#lineTwo, #lineThree{
+    margin-top: 101px;
+}
+
+#contentOne {
+    width: 560px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+
+#contentThree {
+    width: 560px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 32px;
+}
+
+#contentTwo {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 60px;
+    width: 560px;
+}
+
+#FeaturedIcon, #FeaturedIconTwo, #FeaturedIconThree {
+    width: 48px;
+    height: 48px;
+    margin-bottom: 20px;
+}
+
+#contOneHead, #contTwoHead, #contThreeHead {
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+#contOneP, #contTwoP, #contThreeP {
+    color: #535862;
+    font-size: 18px;
+}
+
+#checkDiv, #checkDivTwo, #checkDivThree {
+    margin-bottom: 32px;
+    width: 100%;
+    padding-left: 16px;
+}
+
+#checkOneDiv {
+    margin-top: 32px;
+}
+
+#checkTwoDiv, #checkThreeDiv {
+    margin-top: 20px;
+}
+
+#checkPOneOne, #checkPOneTwo, #checkPOneThree, #checkPTwoOne, #checkPTwoTwo, #checkPTwoThree, #checkPThreeOne, #checkPThreeTwo, #checkPThreeThree {
+    display: inline;
+    font-size: 18px;
+    vertical-align: middle;
+    color: #535862;
+}
+
+#checkImgOneOne, #checkImgOneTwo, #checkImgOneThree, #checkImgTwoOne, #checkImgTwoTwo, #checkImgTwoThree, #checkImgThreeOne, #checkImgThreeTwo, #checkImgThreeThree {
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+
+#lineImgOne, #lineImgTwo #lineImgThree {
+    width: 652px;
+    height: 451px;
+    vertical-align: middle;
+}
+
+#lineImgTwo {
+    width: 562px;
+    vertical-align: middle;
+    height: 452px;
+}
